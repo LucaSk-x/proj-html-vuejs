@@ -24,8 +24,12 @@ export default {
 
 <style lang="scss">
 @import "./assets/scss/main.scss";
+ * {
+    font-size: 12px;
 
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-}
+    #app {
+      font-family: Avenir, Helvetica, Arial, sans-serif;
+    }
+  }
+
 </style>
